@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulario</title>
+</head>
+<body>
+
+    <p>//Contacto</p>
+
+    <h1>Dejame un mensaje</h1>
+    <p>Este formlario es práctica, no envía datos a ningún servidor. Sirve para prácticar las 
+        etiquetas semanticas de formularios en HTML.</p>
+
+    
+    <label for="nombre">Nombre:</label>
+    <input type="text" name="nombre" placeholder="Tu nombre">
+
+    <label for="email">Correo electrónico:</label>
+    <input type="email" name="email" placeholder="Tu correo electrónico">
+
+    <div class="form-group">
+        <label>¿Cómo llegaste a este sitio?</label>
+        <div class="radio-group">
+        <label class="radio-label">
+            <input type="radio" name="source" value="redes" checked>
+            Redes sociales
+        </label>
+        <label class="radio-label">
+            <input type="radio" name="source" value="amigo">
+            Un amigo
+        </label>
+        <label class="radio-label">
+            <input type="radio" name="source" value="buscador">
+            Buscador
+        </label>
+        </div>
+
+    <label for="mensaje">Mensaje:</label>
+    <textarea name="mensaje" placeholder="Escribe tu mensaje aquí"></textarea>
+</body>
+</html>
