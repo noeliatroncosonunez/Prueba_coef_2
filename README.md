@@ -2,12 +2,19 @@
 Prueba de comandos, html, css y de instrucciones.
 
 1.- 
+<<<<<<< HEAD
 2.-
 3.-
 4.-
 5.- 
+=======
+2.-benjamin gorigoitia 
+3.- Rodrigo Rojas
+4.-ianMoreno
+5.-
+>>>>>>> 98af0eb4ec22f1cd11734fcf735868864c083413
 6.-
-7.-
+7.-TKS-Grey
 8.-
 9.-
 10.-

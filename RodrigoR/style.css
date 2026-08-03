@@ -1,0 +1,211 @@
+h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #C9B6F8;
+    display:flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #F7B2D9;
+    display:flex;
+    justify-content: center;
+}
+
+
+p {
+    font-family: calibri;
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: #C9B6F8;
+}
+
+h6 {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: #FBE28A;
+}
+
+.enlace {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+
+a {
+    color: #A8F0C6;
+    margin: 0 1rem;
+}
+
+.Bienvenida {
+    font-size: 1.9rem;
+    color: #fff;
+    margin-left: 1rem;
+}
+
+header {
+    background-color: #3a90c900;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 5px;
+    border-bottom: 2px solid #221A36;
+}
+
+.navegador {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.cajadentrodecaja {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    color: #fff;
+    text-align: center;
+    background-color: #221a3600;
+    margin-bottom: 20px;
+}
+
+.cajadentrodecaja2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    color: #fff;
+    text-align: center;
+    background-color: #221a3600;
+    margin-bottom: 50px;
+}
+
+.cajas-2 {
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 400px;
+    width: 400px;
+    color: #fff;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+    padding:10px;
+    background-color: #221A36;
+    border: 2px solid #4b3d6e;
+    border-radius: 10px;
+}
+
+.caja3 {
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 400px;
+    width: 400px;
+    color: #fff;
+    padding:10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+    background-color: #221A36;
+    border: 2px solid #4b3d6e;
+    border-radius: 10px;
+}
+
+.cajaH {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    height: 400px;
+    width: 400px;
+    color: #fff;
+    padding:10px;
+    margin: 100px;
+    text-align: center;
+    background-color: #8b66e700;
+    border: 2px solid #4b3d6e00;
+    border-radius: 10px;
+}
+
+main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin:50px;
+    padding: 20px;
+    width: 50%;
+    height: 50%;
+}
+
+.mihistoria {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin:50px;
+    padding: 20px;
+    width: 50%;
+    height: 50%;
+}
+
+body {
+    background-color: #171225;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* A lo vertical */
+    align-items: center;     /* Todo lo horizontal */
+    text-align: center;
+}
+
+footer {
+    background-color: #3a90c900;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    border-top: 5px;
+    border-top: 2px solid #221A36;
+}
+
+.footer2 {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.footer {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 230px;
+}
+
+.inicio {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 230px;
+}
